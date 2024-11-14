@@ -1,0 +1,50 @@
+﻿@model LAB_TASK.DTOs.ProductDTO
+
+@{
+    ViewBag.Title = "Delete Product";
+}
+
+@if (Model == null)
+{
+    <p>Product data not found.</p>
+    <a href="/Product/Index" class="btn btn-secondary">Back to List</a>
+
+}
+else
+{
+    <h2 align ="center">Are you sure you want to delete this Product?</h2>
+
+    <table class="table table-bordered">
+        <tr>
+            <th>Field</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>ProductId</td>
+            <td>@Model.ProductId</td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <td>StockQuantity</td>
+            <td>@Model.StockQuantity</td>
+        </tr>
+        <tr>
+            <td>Category</td>
+            <td>@Model.Category</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td>@Model.Price</td>
+        </tr>
+
+    </table>
+
+    <form method="post" action="/Product/Delete">
+        <input type="hidden" name="id" value="@Model.ProductId" />
+        <button type="submit" name="dcsn" value="Yes" class="btn btn-danger">Yes, Delete</button>
+        <a href="/Product/Index" class="btn btn-secondary">Cancel</a>
+    </form>
+}

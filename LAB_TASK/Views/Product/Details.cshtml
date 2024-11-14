@@ -1,0 +1,43 @@
+﻿@model LAB_TASK.DTOs.ProductDTO
+
+@{
+    ViewBag.Title = "Product Details";
+}
+
+<h2 align ="center">Product Details</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Field</th>
+        <th>Value</th>
+    </tr>
+    <tr>
+        <td>ProductId</td>
+        <td>@Model.ProductId</td>
+    </tr>
+
+    <tr>
+        <td>Name</td>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <td>Description</td>
+        <td>@Model.Description</td>
+    </tr>
+    <tr>
+        <td>StockQuantity</td>
+        <td>@Model.StockQuantity</td>
+    </tr>
+
+    <tr>
+        <td>Category</td>
+        <td>@Model.Category</td>
+    </tr>
+
+</table>
+
+<div>
+    <a href="/Product/Index" class="btn btn-primary">Back to List</a>
+    <a href="/Product/Edit/@Model.ProductId" class="btn btn-warning">Edit</a>
+    <a href="/Product/Delete/@Model.ProductId" class="btn btn-danger">Delete</a>
+</div>

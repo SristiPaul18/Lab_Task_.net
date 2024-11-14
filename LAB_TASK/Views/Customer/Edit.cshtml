@@ -1,0 +1,31 @@
+﻿@model LAB_TASK.DTOs.CustomerDTO
+
+@{
+    ViewBag.Title = "Edit Customer";
+}
+
+<h2 align ="center">Edit Customer</h2align>
+<form method="post">
+    <input type="hidden" name="CustomerId" value="@Model.CustomerId" />
+
+    <input type="text" value="@Model.FirstName" name="FirstName" placeholder="First Name" class="form-control" />
+    @Html.ValidationMessageFor(model => model.FirstName)
+
+    <input type="text" value="@Model.LastName" name="LastName" placeholder="Last Name" class="form-control" />
+    @Html.ValidationMessageFor(model => model.LastName)
+
+    <input type="text" value="@Model.Email" name="Email" placeholder="Email" class="form-control" />
+    @Html.ValidationMessageFor(model => model.Email)
+
+    <input type="text" value="@Model.Phone" name="Phone" placeholder="Phone" class="form-control" />
+    @Html.ValidationMessageFor(model => model.Phone)
+
+    <input type="text" value="@Model.Address" name="Address" placeholder="Address" class="form-control" />
+    @Html.ValidationMessageFor(model => model.Address)
+
+    <input type="date" value="@Model.DateJoined.ToString("dd-MM-yyyy")" name="DateJoined" class="form-control" />
+    @Html.ValidationMessageFor(model => model.DateJoined)
+
+    <input type="submit" value="Save Changes" class="btn btn-success" />
+    <a href="@Url.Action("List")" class="btn btn-secondary">Cancel</a>
+</form>

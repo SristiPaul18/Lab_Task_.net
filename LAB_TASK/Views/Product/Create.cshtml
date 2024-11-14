@@ -1,0 +1,35 @@
+﻿@model LAB_TASK.DTOs.ProductDTO
+
+@{
+    ViewBag.Title = "Create Product";
+}
+
+<h2 align ="center">Create Product</h2>
+
+<form method="post">
+    <input type="hidden" name="ProductId" value="@Model.ProductId" />
+
+    <input type="text" value="@Model.Name" name="Name" placeholder="Name" class="form-control" />
+    @Html.ValidationMessageFor(model => model.Name)
+
+    <input type="text" value="@Model.Description" name="Description" placeholder="Description" class="form-control" />
+    @Html.ValidationMessageFor(model => model.Description)
+
+    <input type="number" value="@Model.Price" name="Price" placeholder="Price" class="form-control" />
+    @Html.ValidationMessageFor(model => model.Price)
+
+    <input type="number" value="@Model.StockQuantity" name="StockQuantity" placeholder="Stock Quantity" class="form-control" />
+    @Html.ValidationMessageFor(model => model.StockQuantity)
+
+    <select name="Category" class="form-control">
+        <option value="">Select a Category</option>
+        @foreach (var category in ViewBag.Categories as List<string>)
+        {
+            <option value="@category" @(category == Model.Category ? "selected" : "")>@category</option>
+        }
+    </select>
+    @Html.ValidationMessageFor(model => model.Category)
+
+    <input type="submit" value="Save Changes" class="btn btn-success" />
+    <a href="@Url.Action("Index", "Product")" class="btn btn-secondary">Cancel</a>
+</form>

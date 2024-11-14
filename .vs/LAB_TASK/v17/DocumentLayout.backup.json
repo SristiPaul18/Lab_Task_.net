@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB_TASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|d:\\lab_task\\lab_task\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|D:\\LAB_TASK\\lab_task\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E6D27-8A5A-45A0-944B-D013CBCF48E0}|LAB_TASK\\LAB_TASK.csproj|solutionrelative:lab_task\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "LAB_TASK\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T15:41:41.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LAB_TASK\\LAB_TASK\\Views\\Customer\\Edit.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T16:20:29.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Customer\\List.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Customer\\List.cshtml",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Views\\Customer\\List.cshtml",
+              "RelativeToolTip": "LAB_TASK\\Views\\Customer\\List.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T16:39:28.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "LAB_TASK\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:29:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "LAB_TASK\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T15:38:01.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "LAB_TASK\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T16:10:24.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "LAB_TASK\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T15:51:34.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "LAB_TASK\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "LAB_TASK\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAUwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:50:20.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "LAB_TASK\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T16:34:07.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "LAB_TASK\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T15:08:17.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "LAB_TASK\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "LAB_TASK\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T16:34:19.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "LAB_TASK\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "LAB_TASK\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:32:59.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "LAB_TASK\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "LAB_TASK\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB8AAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:49:54.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LAB_TASK\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LAB_TASK\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:31:27.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\LAB_TASK\\LAB_TASK\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LAB_TASK\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\LAB_TASK\\LAB_TASK\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LAB_TASK\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:03:56.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

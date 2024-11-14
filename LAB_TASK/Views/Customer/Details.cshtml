@@ -1,0 +1,48 @@
+﻿@model LAB_TASK.DTOs.CustomerDTO
+
+@{
+    ViewBag.Title = "Customer Details";
+}
+
+<h2 align ="center">Customer Details</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Field</th>
+        <th>Value</th>
+    </tr>
+    <tr>
+        <td>CustomerId</td>
+        <td>@Model.CustomerId</td>
+    </tr>
+    <tr>
+        <td>First Name</td>
+        <td>@Model.FirstName</td>
+    </tr>
+    <tr>
+        <td>Last Name</td>
+        <td>@Model.LastName</td>
+    </tr>
+    <tr>
+        <td>Email</td>
+        <td>@Model.Email</td>
+    </tr>
+    <tr>
+        <td>Phone</td>
+        <td>@Model.Phone</td>
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td>@Model.Address</td>
+    </tr>
+    <tr>
+        <td>Date Joined</td>
+        <td>@Model.DateJoined.ToString("dd-MM-yyyy")</td> 
+    </tr>
+</table>
+
+<div>
+    <a href="/Customer/List" class="btn btn-primary">Back to List</a>
+    <a href="/Customer/Edit/@Model.CustomerId" class="btn btn-warning">Edit</a>
+    <a href="/Customer/Delete/@Model.CustomerId" class="btn btn-danger">Delete</a>
+</div>

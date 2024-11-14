@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "List";
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+
+<h2 align ="center">List of Customers</h2>
+<a href="/Customer/Create">Create</a>
+
+<table class="table table-bordered">
+    <tr>
+        <th>CustomerId</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Address</th>
+        <th>DateJoined</th>
+        <th></th>
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.CustomerId</td>
+            <td>@d.FirstName</td>
+            <td>@d.LastName</td>
+            <td>@d.Email</td>
+            <td>@d.Phone</td>
+            <td>@d.Address</td>
+            <td>@d.DateJoined</td>
+            <td>
+                <a href="/Customer/details/@d.CustomerId" class="btn btn-info">Details</a>
+                <a href="/Customer/edit/@d.CustomerId" class="btn btn-warning">Edit</a>
+                <a href="/Customer/delete/@d.CustomerId" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+

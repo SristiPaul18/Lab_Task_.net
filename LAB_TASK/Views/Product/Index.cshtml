@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "List";
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<h2 align ="center">List of Products</h2>
+<a href="/Product/Create">Create</a>
+
+<table class="table table-bordered">
+    <tr>
+        <th>ProductId</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Price</th>
+        <th>StockQuantity</th>
+        <th>Category</th>
+        <th></th>
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.ProductId</td>
+            <td>@d.Name</td>
+            <td>@d.Description</td>
+            <td>@d.Price</td>
+            <td>@d.StockQuantity</td>
+            <td>@d.Category</td>
+            <td>
+                <a href="/Product/details/@d.ProductId" class="btn btn-info">Details</a>
+                <a href="/Product/edit/@d.ProductId" class="btn btn-warning">Edit</a>
+                <a href="/Product/delete/@d.ProductId" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+
